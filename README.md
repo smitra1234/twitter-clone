@@ -6,7 +6,7 @@ Fully functional Django App that is twitter clone.
 
 1. Clone the project.
 
-2. Move to the base directory: ```cd twitter clone```.
+2. Move to the base directory: ```cd twitter-clone```.
 
 3. Create a new python enveronment with: ```python -m venv env```.
 
